@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Maven Quickstart</string>
+    <string name="hello">Hello MavenTestProject!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="first_activity">This is the first activity</string>
+    <string name="first_fragment">This is the fragment!</string>
+    <string name="button_activity_text">Click on the Button</string>
+
+</resources>
